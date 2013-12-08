@@ -26,6 +26,6 @@ def find():
             try:
                 grades.remove({'_id': doc['_id']})
             except:
-			    print "error during remove:", sys.exc_info()[0]
+                print "error during remove:", sys.exc_info()[0]
 
 find()
