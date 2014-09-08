@@ -1,1 +1,1 @@
-MongoDB for Developers course homeworks' solutions
+MongoDB for Developers training course homework's solutions
